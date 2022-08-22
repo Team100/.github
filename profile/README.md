@@ -9,3 +9,4 @@
 * [Flickr](https://www.flickr.com/people/team100wildhats/)
 * [Fusion 360 repo](https://gmail2176397.autodesk360.com/g/all_projects/active)
 * [Blue Alliance page](https://www.thebluealliance.com/team/100)
+* [Slack](team100robotics.slack.com) (members only)
