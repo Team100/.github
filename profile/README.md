@@ -1,5 +1,5 @@
 # Woodside High School Robotics
-<img src="https://images.squarespace-cdn.com/content/v1/5b19a83aaa49a1889bd2ed68/ae5cde7c-0405-4e58-be98-63df1dde96c2/D7CE643B-E723-475F-B564-215D0489B83A.jpeg?format=450w" width=450 align="left" hspace=50/>
+<img src="https://images.squarespace-cdn.com/content/v1/5b19a83aaa49a1889bd2ed68/90438cbc-7d0a-4660-9819-b4dcaefaa2c8/11-IMG_2283.jpg?format=450w" width=450 align="left" hspace=50/>
 
 * [Website](https://www.team100.org/)
 * [Twitter](https://twitter.com/FRCTeam100)
