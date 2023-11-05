@@ -10,3 +10,5 @@
 * [Fusion 360 repo](https://gmail2176397.autodesk360.com/g/all_projects/active)
 * [Blue Alliance page](https://www.thebluealliance.com/team/100)
 * [Slack](team100robotics.slack.com) (members only)
+* [Trello](https://trello.com/w/team100playpen) (members only)
+* [Team Snap](https://go.teamsnap.com/7826003/home) (members only)
